@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+#include <iostream>
+#include <iomanip>
+
+useing namespace std;
+
+int main()
+{
+cout << "Hello world!";
+}
